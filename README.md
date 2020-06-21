@@ -7,6 +7,16 @@ In this case, you can use Deep Learning Toolbox in tandem with the Deep Learning
 
 This example shows how to create, train and quantize a simple convolutional neural network for defect detection, then demonstrate how to generate code for whole algorithms that includes pre/post image processing and convolutional neural network so that you can deploy it into NVIDIA GPUs such as Jetson AGX Xavier, Nano and Drive platforms.
 
+This example demonstrates how to:
+1. Load and explore image data
+1. Define the network architecture and training options
+1. Train the network and classify validation images
+1. Quantize network to reduce memory footprint
+1. Walk through whole algorithm that consist of pre-processing, CNN and post-processing
+1. Generate CUDA C++ code(MEX) for whole algorithm
+1. Deploy algorithms to NVIDIA hardware
+1. Run the Executable on the Target
+
 ![title](https://user-images.githubusercontent.com/63379838/78849073-73610f80-7a4e-11ea-8feb-3f1c3ec0a0e5.png)
 
 --------------------------------------------------------------------------------
