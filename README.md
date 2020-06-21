@@ -43,4 +43,4 @@ This example demonstrates how to:
 - The support package GPU Coder Interface for Deep Learning
 - GPU Coder Support Package for NVIDIA GPUs
 - The support package Deep Learning Toolbox Model Quantization Library
-- Environment variables for the compilers and libraries. For information on the supported versions of the compilers and libraries, see ![Third-party Products](https://jp.mathworks.com/help/gpucoder/gs/install-prerequisites.html). For setting up the environment variables, see Setting Up the Prerequisite Products.
+- Environment variables for the compilers and libraries. For information on the supported versions of the compilers and libraries, see [Third-party Products](https://jp.mathworks.com/help/gpucoder/gs/install-prerequisites.html). For setting up the environment variables, see [Setting Up the Prerequisite Products](https://jp.mathworks.com/help/gpucoder/gs/setting-up-the-toolchain.html).
