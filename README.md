@@ -17,7 +17,7 @@ This example demonstrates how to:
 1. Deploy algorithms to NVIDIA hardware
 1. Run the Executable on the Target
 
-![title](https://user-images.githubusercontent.com/63379838/78849073-73610f80-7a4e-11ea-8feb-3f1c3ec0a0e5.png)
+![exampleImage](https://user-images.githubusercontent.com/63379838/85224490-c881b000-b405-11ea-9743-5942cf152850.png)
 
 --------------------------------------------------------------------------------
 
