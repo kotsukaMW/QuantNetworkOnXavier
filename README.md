@@ -23,7 +23,7 @@ This example demonstrates how to:
 
 ## Prerequisites - MathWorks Products and Support Packages
 
-- MATLAB
+- MATLAB (R2020a or later)
 - MATLAB® Coder™
 - Parallel Computing Toolbox™
 - Deep Learning Toolbox™
