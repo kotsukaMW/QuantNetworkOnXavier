@@ -21,10 +21,26 @@ This example demonstrates how to:
 
 --------------------------------------------------------------------------------
 
-## Requirements
+## Prerequisites - MathWorks Products and Support Packages
 
-- MATLAB R2020a
-- Automated Driving Toolbox
-- Sensor Fusion and Tracking Toolbox
+- MATLAB
+- MATLAB® Coder™
+- Parallel Computing Toolbox™
+- Deep Learning Toolbox™
+- Image Processing Toolbox™
+- Computer Vision Toolbox™
 
 --------------------------------------------------------------------------------
+
+## Prerequisites - Third-party Products
+
+- NVIDIA® GPU enabled for CUDA with compute capability 3.2 or higher (6.1 or higher is required for quantization)
+- CUDA toolkit and driver
+- C/C++ Compiler 
+- CUDA Deep Neura Network library (cuDNN)
+- Open Source Computer Vision Library v3.1.0
+- (Optional) NVIDIA TensorRT
+- The support package GPU Coder Interface for Deep Learning
+- GPU Coder Support Package for NVIDIA GPUs
+- The support package Deep Learning Toolbox Model Quantization Library
+- Environment variables for the compilers and libraries. For information on the supported versions of the compilers and libraries, see Third-party Products. For setting up the environment variables, see Setting Up the Prerequisite Products.
