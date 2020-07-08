@@ -24,23 +24,37 @@ This example demonstrates how to:
 ## Prerequisites - MathWorks Products and Support Packages
 
 - MATLAB (R2020a or later)
-- MATLAB® Coder™
-- Parallel Computing Toolbox™
-- Deep Learning Toolbox™
-- Image Processing Toolbox™
-- Computer Vision Toolbox™
+- MATLAB Coder<sup>TM</sup>
+- GPU Coder<sup>TM</sup>
+- Parallel Computing Toolbox<sup>TM</sup>
+- Deep Learning Toolbox<sup>TM</sup>
+- Image Processing Toolbox<sup>TM</sup>
+- Computer Vision Toolbox<sup>TM</sup>
 
 --------------------------------------------------------------------------------
 
-## Prerequisites - Third-party Products
+## Prerequisites - Development Host REquirements
 
 - NVIDIA® GPU enabled for CUDA with compute capability 3.2 or higher (6.1 or higher is required for quantization)
-- CUDA toolkit and driver
+- NVIDIA CUDA toolkit and driver
 - C/C++ Compiler 
 - CUDA Deep Neura Network library (cuDNN)
 - Open Source Computer Vision Library v3.1.0
 - (Optional) NVIDIA TensorRT
 - The support package GPU Coder Interface for Deep Learning
 - GPU Coder Support Package for NVIDIA GPUs
-- The support package Deep Learning Toolbox Model Quantization Library
+- The support package Deep Learning Toolbox Model Quantization Library. To install support packages, use the Add-On Explorer.
 - Environment variables for the compilers and libraries. For information on the supported versions of the compilers and libraries, see [Third-party Products](https://jp.mathworks.com/help/gpucoder/gs/install-prerequisites.html). For setting up the environment variables, see [Setting Up the Prerequisite Products](https://jp.mathworks.com/help/gpucoder/gs/setting-up-the-toolchain.html).
+
+--------------------------------------------------------------------------------
+
+## Prerequisites - Target Board REquirements
+
+- NVIDIA Jetson AGX Xavier
+- Ethernet crossover cable to connect the target board and host PC (if the target board cannot be connected to a local network)
+- C/C++ Compiler 
+- CUDA Deep Neura Network library (cuDNN)
+- Open Source Computer Vision Library v3.1.0 or higher for reading and displaying images/video
+- Environment variables on the target for the compilers and libraries. 
+For information on the supported versions of the compilers and libraries and their setup, see [installing and setting up prerequisites for NVIDIA boards](https://www.mathworks.com/help/supportpkg/nvidia/ug/install-and-setup-prerequisites.html)
+
