@@ -58,3 +58,10 @@ This example demonstrates how to:
 - Environment variables on the target for the compilers and libraries. 
 For information on the supported versions of the compilers and libraries and their setup, see [installing and setting up prerequisites for NVIDIA boards](https://www.mathworks.com/help/supportpkg/nvidia/ug/install-and-setup-prerequisites.html)
 
+--------------------------------------------------------------------------------
+
+## Running the Example
+Open and run the live script 
+- English Version : tb_myNDNet_quant_En.mlx
+- Japanese Version : tb_myNDNet_quant_Jp.mlx
+
